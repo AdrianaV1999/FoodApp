@@ -1,0 +1,25 @@
+.innercontainer {
+  flex: 1;
+  padding: 10px;
+  margin: 10px;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 20px;
+}
+
+.nameContainer {
+  margin-left: 50px;
+}
+
+.name {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.amount {
+  font-weight: bold;
+  margin-top: 10px;
+}
